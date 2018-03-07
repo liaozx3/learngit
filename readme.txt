@@ -24,4 +24,3 @@ git stash
 git stash list
 git stash apply	stash@{..}	  	git stash drop
 git stash pop
-wiufhwuig
