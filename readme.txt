@@ -20,3 +20,7 @@ git checkout "branch"
 git merge "branch"
 git branch -d "branch"
 git log --graph
+git stash
+git stash list
+git stash apply	stash@{..}	  	git stash drop
+git stash pop
