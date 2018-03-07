@@ -18,7 +18,7 @@ git checkout -b "newbranch"
 git branch "newbranch"
 git checkout "branch"
 git merge "branch"
-git branch -d "branch"
+git branch -D/d "branch"
 git log --graph
 git stash
 git stash list
